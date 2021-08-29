@@ -43,6 +43,7 @@ Arbitrum支持标准的EVM合约部署。这意味着标准的Solidity合约能�
 
 ## Arbitrum开发与使用文档
 英文版：[Arbitrum Developer Quickstart · Offchain Labs Dev Center](https://developer.offchainlabs.com/docs/developer_quickstart)
+
 中文版：[GitHub - dysquard/Arbitrum_Doc_CN: Arbitrum官方文档中文版](https://github.com/dysquard/Arbitrum_Doc_CN)
 
 
